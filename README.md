@@ -1,7 +1,9 @@
-<h1 align="center">Olá,me chamo<a href="https://www.linkedin.com/in/everton-ferreira-818bb01a5/"><i>Everton Ferreira</i></a> 😃️</h1>
-  
-  
+<h1 align="center">Olá, me chamo <a href="https://www.linkedin.com/in/everton-ferreira-818bb01a5/"><i>Everton Ferreira</i></a> 😃️</h1>
 
+<h1 align="center">Estudante do Curso Técnico em Infomática</h1>
+
+  
+  
  <div align="center">
   <a href="https://github.com/kirok3">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kirok&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
