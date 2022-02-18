@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo <a href="https://www.linkedin.com/in/everton-ferreira-818bb01a5/"><i>Everton Ferreira</i></a> 😃️</h1>
+<h1 align="center">Olá, me chamo <a href="https://www.linkedin.com/in/everton-ferreira-818bb01a5/"><i>Everton Ferreira</i></a> 🎮</h1>
 
 <h1 align="center">Estudante do Curso Técnico em Infomática</h1>
 
