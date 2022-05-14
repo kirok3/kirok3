@@ -31,3 +31,6 @@
    </div>
   
   ![Snake animation](https://github.com/kirok3/kirok3/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  <img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
